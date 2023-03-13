@@ -1,0 +1,8 @@
+
+u
+java:S1192"ZDefine a constant instead of duplicating this literal "The smallest number %d %n" 3 times.(±ú­¦ûÿÿÿÿ
+k
+java:S3655$"PCall "Optional#isPresent()" or "!Optional#isEmpty()" before accessing the value.(×Õè¦üÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(±ú­¦ûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÉ‚ıÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(ÀÔ’†ÿÿÿÿÿ

@@ -1,8 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/algorithm/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/baeldung/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/beenary/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter10_loops/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter12_arrays/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter13_pronciples/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter17_string/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter4_class/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/chapter9_statements/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-patterns/builder/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-patterns/builder/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-patterns/singleton/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-patterns/singleton/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-patterns/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-patterns/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-patterns/template/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/design-patterns/template/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/abstraction/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/abstraction/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/collections/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/collections/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/encapsulation/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/exceptions/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/exceptions/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/files/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/files/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/inheritance/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/inheritance/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/map/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/map/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/polimorphism/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/polimorphism/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/string/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/java-core/string/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lombok/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-boot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/test-driven-development/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit-tests/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/unit-tests/src/main/resources" charset="UTF-8" />
   </component>
 </project>

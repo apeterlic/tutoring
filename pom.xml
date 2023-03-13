@@ -9,7 +9,20 @@
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>beenary</module>
+        <module>unit-tests</module>
+        <module>java-core</module>
+        <module>test-driven-development</module>
+        <module>spring</module>
+        <module>spring-boot</module>
+        <module>algorithm</module>
+        <module>java-core/abstraction</module>
+        <module>chapter4_class</module>
+        <module>chapter17_string</module>
+        <module>chapter9_statements</module>
+        <module>chapter10_loops</module>
+        <module>chapter12_arrays</module>
+        <module>chapter13_pronciples</module>
+        <module>baeldung</module>
     </modules>
     <properties>
         <maven.compiler.source>19</maven.compiler.source>
@@ -19,11 +32,22 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>2.5.2</version> <!-- spring boot version number -->
+        <version>2.4.0</version> <!-- spring boot version number -->
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
 
     <dependencies>
+
+        <!-- https://mvnrepository.com/artifact/org.springframework.cloud/spring-cloud-dependencies -->
+        <dependency>
+            <groupId>org.springframework.cloud</groupId>
+            <artifactId>spring-cloud-dependencies</artifactId>
+            <version>Hoxton.SR5</version>
+            <type>pom</type>
+            <scope>import</scope>
+        </dependency>
+
+
 
         <dependency>
             <groupId>org.springframework.boot</groupId>

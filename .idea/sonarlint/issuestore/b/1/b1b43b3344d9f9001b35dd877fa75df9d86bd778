@@ -1,14 +1,0 @@
-
-\
-java:S1854":Remove this useless assignment to local variable "number".(…•–ˆùÿÿÿÿ8ÙÈ•ãÙ0
-X
-java:S1854";Remove this useless assignment to local variable "decimal".(Ü²˜8ÙÈ•ãÙ0
-I
-java:S1481",Remove this unused "decimal" local variable.(Ü²˜8ÜÈ•ãÙ0
-M
-java:S1481"+Remove this unused "number" local variable.(…•–ˆùÿÿÿÿ8ÜÈ•ãÙ0
-X	java:S125"<This block of commented-out lines of code should be removed.(îâÒ8İÈ•ãÙ0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(÷ÜÛáùÿÿÿÿ8ŞÈ•ãÙ0
-Z	java:S106"9Replace this use of System.out or System.err by a logger.(ï…º¹ùÿÿÿÿ8äÈ•ãÙ0
-Z	java:S106""9Replace this use of System.out or System.err by a logger.(ï…º¹ùÿÿÿÿ8åÈ•ãÙ0
-U	java:S106&"9Replace this use of System.out or System.err by a logger.(¶À8æÈ•ãÙ0
