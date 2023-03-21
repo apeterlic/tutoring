@@ -11,6 +11,7 @@
         <module name="chapter9_statements" />
         <module name="string" />
         <module name="abstraction" />
+        <module name="objects" />
         <module name="chapter17_string" />
         <module name="inheritance" />
         <module name="exceptions" />
@@ -61,6 +62,7 @@
       <module name="java-core" options="" />
       <module name="lombok" options="-parameters" />
       <module name="map" options="-parameters" />
+      <module name="objects" options="-parameters" />
       <module name="polimorphism" options="-parameters" />
       <module name="singleton" options="" />
       <module name="spring" options="-parameters" />
