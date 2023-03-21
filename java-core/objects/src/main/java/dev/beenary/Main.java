@@ -1,7 +1,5 @@
 package dev.beenary;
 
-import dev.beenary.utils.Validator;
-
 public class Main
 {
     public static void main(String[] args)
@@ -33,5 +31,33 @@ public class Main
         Zoo zoo = new Zoo("Cool Zoo", 0, 4);
         System.out.println("Checking size");
         Validator.assertEqual(zoo.getSize(), 10);
+    }
+
+    private static class Validator
+    {
+
+        public static void assertTrue(boolean value)
+        {
+            if (value == false)
+            {
+                System.err.printf("Value is not true");
+            }
+        }
+
+        public static void assertFalse(boolean value)
+        {
+            if (value == true)
+            {
+                System.err.printf("Value is not false");
+            }
+        }
+
+        public static <T> void assertEqual(T o1, T o2)
+        {
+            if (!o1.equals(o2))
+            {
+                System.err.printf("Values not equal %s %s%n", o1, o2);
+            }
+        }
     }
 }
