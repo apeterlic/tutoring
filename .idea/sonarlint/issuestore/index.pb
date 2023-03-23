@@ -213,7 +213,5 @@ r
 Bjava-core/string/src/main/java/dev/beenary/practice/Exercise8.java,e/0/e06e0b621c0b63220d7bde634c296a468ff73931
 r
 Bjava-core/string/src/main/java/dev/beenary/practice/Exercise9.java,e/4/e4f70a82a26e732b9d46325bcd6130d3a67c4da1
-J
-java-core/string/README.md,a/5/a54c8e8bb48c32028fa2c6f6f8ed21076cc89a3c
 t
 Djava-core/string/src/main/java/dev/beenary/course/LengthExample.java,c/5/c56bf2e60cb3b2f5e69dbab02a186a8c572a9c74
