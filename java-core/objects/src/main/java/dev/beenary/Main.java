@@ -4,6 +4,9 @@ public class Main
 {
     public static void main(String[] args)
     {
+
+        str("bla", "8", "vds");
+
         System.out.println("Testing Zoo class");
 
         AnimalType lion = new AnimalType("Lion");
@@ -58,6 +61,14 @@ public class Main
             {
                 System.err.printf("Values not equal %s %s%n", o1, o2);
             }
+        }
+    }
+
+    static void str(String... values){
+        String[] sdf = values;
+
+        for(String s : sdf){
+            System.out.println(s);
         }
     }
 }

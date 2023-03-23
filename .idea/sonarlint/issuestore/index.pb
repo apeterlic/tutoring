@@ -205,3 +205,15 @@ r
 Bjava-core/string/src/main/java/dev/beenary/practice/Exercise4.java,8/4/84a97fd5bf848aaed7dfd83e3ad0383ed17fa282
 r
 Bjava-core/string/src/main/java/dev/beenary/practice/Exercise5.java,c/7/c74e6cd36c2a9e74e07bcc2ee4a2ba7591a28341
+r
+Bjava-core/string/src/main/java/dev/beenary/practice/Exercise6.java,c/6/c65d3d04a94993c00f70c88f5652e2ce1c8d66ab
+r
+Bjava-core/string/src/main/java/dev/beenary/practice/Exercise7.java,7/4/74903cbd8c2107fbc34ba5ca2400a5e51b56dc72
+r
+Bjava-core/string/src/main/java/dev/beenary/practice/Exercise8.java,e/0/e06e0b621c0b63220d7bde634c296a468ff73931
+r
+Bjava-core/string/src/main/java/dev/beenary/practice/Exercise9.java,e/4/e4f70a82a26e732b9d46325bcd6130d3a67c4da1
+J
+java-core/string/README.md,a/5/a54c8e8bb48c32028fa2c6f6f8ed21076cc89a3c
+t
+Djava-core/string/src/main/java/dev/beenary/course/LengthExample.java,c/5/c56bf2e60cb3b2f5e69dbab02a186a8c572a9c74
