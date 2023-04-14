@@ -23,6 +23,7 @@
         <module>chapter12_arrays</module>
         <module>chapter13_pronciples</module>
         <module>payment-calculator</module>
+        <module>exercises</module>
     </modules>
     <properties>
         <maven.compiler.source>19</maven.compiler.source>

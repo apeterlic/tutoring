@@ -13,6 +13,7 @@
       <set>
         <option value="$PROJECT_DIR$/beenary/pom.xml" />
         <option value="$PROJECT_DIR$/design-patterns/pom.xml" />
+        <option value="$PROJECT_DIR$/java-core/basics/pom.xml" />
       </set>
     </option>
   </component>

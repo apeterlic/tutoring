@@ -184,8 +184,6 @@ o
 p
 @chapter13_pronciples/src/main/java/dev/beenary/entity/Tiger.java,1/b/1bb371e78ed6a1ae97bb0d90bea6f0fb537a5f15
 r
-Bjava-core/string/src/main/java/dev/beenary/practice/Exercise1.java,f/8/f8bc5f66f1b4eeeb8b8ad4df1d492b474a52371e
-r
 Bjava-core/string/src/main/java/dev/beenary/practice/Exercise3.java,f/8/f8f3ee08e7228e35e662b915e232f10a58439c09
 r
 Bjava-core/string/src/main/java/dev/beenary/practice/Exercise2.java,c/c/ccab8bb70718a2b180689c4956b25ad8fd5075d7

@@ -9,12 +9,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="encapsulation" />
         <module name="chapter9_statements" />
-        <module name="basics" />
         <module name="string" />
         <module name="objects" />
         <module name="chapter17_string" />
         <module name="inheritance" />
         <module name="statements" />
+        <module name="java-basics-string" />
         <module name="spring" />
         <module name="chapter10_loops" />
         <module name="collections" />
@@ -30,13 +30,16 @@
         <module name="chapter4_class" />
         <module name="chapter12_arrays" />
         <module name="polimorphism" />
+        <module name="java-basics" />
         <module name="spring-boot" />
         <module name="files" />
+        <module name="java-exceptions" />
         <module name="chapter13_pronciples" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="baeldung" target="19" />
+      <module name="basics" target="19" />
       <module name="beenary" target="19" />
       <module name="builder" target="19" />
       <module name="design-patterns" target="19" />
@@ -62,9 +65,13 @@
       <module name="design-patterns" options="" />
       <module name="encapsulation" options="-parameters" />
       <module name="exceptions" options="-parameters" />
+      <module name="exercises" options="" />
       <module name="files" options="-parameters" />
       <module name="inheritance" options="-parameters" />
+      <module name="java-basics" options="-parameters" />
+      <module name="java-basics-string" options="-parameters" />
       <module name="java-core" options="" />
+      <module name="java-exceptions" options="-parameters" />
       <module name="lombok" options="-parameters" />
       <module name="loops" options="-parameters" />
       <module name="map" options="-parameters" />
