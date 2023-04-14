@@ -34,6 +34,7 @@
         <module name="spring-boot" />
         <module name="files" />
         <module name="java-exceptions" />
+        <module name="java-basics-objects" />
         <module name="chapter13_pronciples" />
       </profile>
     </annotationProcessing>
@@ -69,6 +70,7 @@
       <module name="files" options="-parameters" />
       <module name="inheritance" options="-parameters" />
       <module name="java-basics" options="-parameters" />
+      <module name="java-basics-objects" options="-parameters" />
       <module name="java-basics-string" options="-parameters" />
       <module name="java-core" options="" />
       <module name="java-exceptions" options="-parameters" />

@@ -1,8 +1,7 @@
-package dev.beenary;
+package dev.beenary.objects_and_classes;
 
 public class Animal
 {
-
     private String name;
     private AnimalType animalType;
 

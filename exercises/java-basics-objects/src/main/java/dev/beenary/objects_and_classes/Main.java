@@ -1,4 +1,4 @@
-package dev.beenary;
+package dev.beenary.objects_and_classes;
 
 public class Main
 {
