@@ -207,12 +207,6 @@ g
 7java-core/objects/src/main/java/dev/beenary/Animal.java,9/d/9d2bd5db9b30b6363ab220139f4ae155526ed478
 d
 4java-core/objects/src/main/java/dev/beenary/Zoo.java,d/6/d61cb370e00ef486881610ab328f834b693ff12f
-o
-?java-core/string/src/main/java/dev/beenary/practice/FindMe.java,2/2/22e48ac4bfdd959251d028a5cb4fa7b48f7f9079
-t
-Djava-core/string/src/main/java/dev/beenary/practice/Transformer.java,f/c/fcf17d9c2a36ea2ef5ced1172e09fdaf87d63309
-u
-Ejava-core/string/src/main/java/dev/beenary/practice/CaesarCipher.java,d/4/d404282f6cbc8cab8c8fc16b09d407169deb76f3
 e
 5java-core/objects/src/main/java/dev/beenary/Main.java,0/c/0c2f531fffb2522a3f27b5f7febe7c79a58cd2f2
 q

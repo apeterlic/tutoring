@@ -1,4 +1,4 @@
-package dev.beenary.practice;
+package dev.beenary;
 
 public class Transformer
 {
