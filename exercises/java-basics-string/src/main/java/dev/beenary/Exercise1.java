@@ -15,11 +15,12 @@ public class Exercise1
 
         while (true)
         {
+            System.out.println("Enter the number (or x to exit):");
             String input = scanner.nextLine();
 
             if (input.equalsIgnoreCase(EXIT_VALUE))
             {
-                System.out.println("The sum is " + sum);
+                System.out.printf("The sum is %d", sum);
                 break;
             }
 
