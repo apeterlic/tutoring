@@ -131,8 +131,6 @@ C
 spring-boot/pom.xml,1/5/15f416c5cbcc39db75bd6efd760539462e40d708
 F
 chapter4_class/pom.xml,e/8/e88aa955aa7cdc8d9ded61523f3fac4d89723375
-7
-pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
 b
 2chapter4_class/src/main/java/dev/beenary/Main.java,b/7/b7f93d9cf5dedeac8fb5e1aaf328b49b65d4e161
 s
@@ -185,14 +183,6 @@ o
 ?chapter13_pronciples/src/main/java/dev/beenary/entity/Bear.java,9/6/9685a11d5f04cfdc396aa244380adeceba9b39e6
 p
 @chapter13_pronciples/src/main/java/dev/beenary/entity/Tiger.java,1/b/1bb371e78ed6a1ae97bb0d90bea6f0fb537a5f15
-@
-baeldung/pom.xml,9/4/94f4e2e357db3eeb54669abb32c3bdb45f095cfe
-\
-,baeldung/src/main/java/dev/beenary/Main.java,6/9/6904b6c8ac62978ff9fcb60c4d2fefb0743c546e
-r
-Bbaeldung/src/main/java/com/baeldung/manytomany/removal/Author.java,a/d/add8e6ca154567418cb9318a2ac1c6318739d67c
-p
-@baeldung/src/main/java/com/baeldung/manytomany/removal/Book.java,2/2/22e77ab039adf2d3d5f8e6beafdfd02b2c04d312
 r
 Bjava-core/string/src/main/java/dev/beenary/practice/Exercise1.java,f/8/f8bc5f66f1b4eeeb8b8ad4df1d492b474a52371e
 r
@@ -241,3 +231,19 @@ t
 Djava-core/files/src/main/java/dev/beenary/binary/FileWriterDemo.java,c/7/c7ed67d8c66eb78cedda2cf6ee705d5ad03e0bc7
 t
 Djava-core/files/src/main/java/dev/beenary/binary/FileReaderDemo.java,a/b/abd6d0de5a2757a9c6088c94a2c5953c3f81b7b9
+r
+Bjava-core/files/src/main/java/dev/beenary/text/FileWriterDemo.java,e/5/e5269b477caab9bc7d7435ad308792e0910675f0
+v
+Fjava-core/files/src/main/java/dev/beenary/text/BufferedWriterDemo.java,3/9/390c54a1fe8cd8ad1dbe5d16e9a767cd2acd15f3
+s
+Cjava-core/files/src/main/java/dev/beenary/text/PrintWriterDemo.java,0/6/068d4f8f170d021e1d5f302cb124a81560f09dd0
+r
+Bjava-core/files/src/main/java/dev/beenary/text/FileReaderDemo.java,d/e/def55ee10abdbe638947a6e1498513b1fc9ec37f
+v
+Fjava-core/files/src/main/java/dev/beenary/text/BufferedReaderDemo.java,f/9/f9d71507ad7ab3850e7a4e0ee5c6c8b459e6342e
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+J
+java-core/string/README.md,a/5/a54c8e8bb48c32028fa2c6f6f8ed21076cc89a3c
+I
+java-core/files/README.md,3/e/3e4ab7bfd4724c08ca328efcc20df39b8b7c7dcf
