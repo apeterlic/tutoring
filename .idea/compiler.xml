@@ -8,17 +8,15 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="encapsulation" />
-        <module name="chapter9_statements" />
         <module name="string" />
         <module name="objects" />
-        <module name="chapter17_string" />
         <module name="inheritance" />
         <module name="statements" />
         <module name="java-basics-string" />
         <module name="spring" />
-        <module name="chapter10_loops" />
         <module name="collections" />
         <module name="payment-calculator" />
+        <module name="course" />
         <module name="unit-tests" />
         <module name="map" />
         <module name="test-driven-development" />
@@ -27,15 +25,49 @@
         <module name="loops" />
         <module name="exceptions" />
         <module name="lombok" />
-        <module name="chapter4_class" />
-        <module name="chapter12_arrays" />
         <module name="polimorphism" />
         <module name="java-basics" />
         <module name="spring-boot" />
         <module name="files" />
         <module name="java-exceptions" />
         <module name="java-basics-objects" />
+        <module name="completable-future" />
+      </profile>
+      <profile name="Annotation profile for tutoring" enabled="true">
+        <sourceOutputDir name="../../chapter10_loops/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../chapter10_loops/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chapter10_loops" />
+      </profile>
+      <profile name="Annotation profile for chapter13_pronciples" enabled="true">
+        <sourceOutputDir name="../../chapter13_pronciples/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../chapter13_pronciples/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
         <module name="chapter13_pronciples" />
+      </profile>
+      <profile name="Annotation profile for chapter17_string" enabled="true">
+        <sourceOutputDir name="../../chapter17_string/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../chapter17_string/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chapter17_string" />
+      </profile>
+      <profile name="Annotation profile for chapter4_class" enabled="true">
+        <sourceOutputDir name="../../chapter4_class/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../chapter4_class/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chapter4_class" />
+      </profile>
+      <profile name="Annotation profile for chapter9_statements" enabled="true">
+        <sourceOutputDir name="../../chapter9_statements/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../chapter9_statements/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chapter9_statements" />
+      </profile>
+      <profile name="Annotation profile for chapter12_arrays" enabled="true">
+        <sourceOutputDir name="../../chapter12_arrays/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../../chapter12_arrays/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="chapter12_arrays" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -63,6 +95,8 @@
       <module name="chapter4_class" options="-parameters" />
       <module name="chapter9_statements" options="-parameters" />
       <module name="collections" options="-parameters" />
+      <module name="completable-future" options="-parameters" />
+      <module name="course" options="-parameters" />
       <module name="design-patterns" options="" />
       <module name="encapsulation" options="-parameters" />
       <module name="exceptions" options="-parameters" />

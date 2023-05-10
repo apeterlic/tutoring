@@ -3,28 +3,13 @@
          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <parent>
-        <artifactId>tutoring</artifactId>
+        <artifactId>java-core</artifactId>
         <groupId>dev.beenary</groupId>
         <version>1.0-SNAPSHOT</version>
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>java-core</artifactId>
-    <packaging>pom</packaging>
-    <modules>
-        <module>string</module>
-        <module>exceptions</module>
-        <module>files</module>
-        <module>collections</module>
-        <module>map</module>
-        <module>inheritance</module>
-        <module>polimorphism</module>
-        <module>encapsulation</module>
-        <module>objects</module>
-        <module>statements</module>
-        <module>loops</module>
-        <module>completable-future</module>
-    </modules>
+    <artifactId>completable-future</artifactId>
 
     <properties>
         <maven.compiler.source>19</maven.compiler.source>

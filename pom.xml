@@ -24,6 +24,7 @@
         <module>chapter13_pronciples</module>
         <module>payment-calculator</module>
         <module>exercises</module>
+        <module>course</module>
     </modules>
     <properties>
         <maven.compiler.source>19</maven.compiler.source>
