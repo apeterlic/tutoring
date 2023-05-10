@@ -2,7 +2,6 @@ package dev.beenary.linked_list;
 
 import java.util.Arrays;
 import java.util.List;
-import java.util.Random;
 import java.util.Scanner;
 
 
@@ -11,7 +10,6 @@ public class MyLinkTester
 
     public static void main(String[] args)
     {
-      /*  int numElements = 5;
         MyList myList = new MyList();
         List<Integer> l = Arrays.asList(7,
                 1,
@@ -27,15 +25,15 @@ public class MyLinkTester
             myList.add(l.get(i));
         }
 
-       // System.out.println(myList.toString());
+        // System.out.println(myList.toString());
 
         System.out.println("FIRST");
-       // testAddMethod(myList);
+        // testAddMethod(myList);
 
         testAddandRemoveMethod(new MyList(), 5, -5);
-*/
-      /*  Scanner in = new Scanner(System.in);
-        MyList myList = new MyList();
+
+        Scanner in = new Scanner(System.in);
+        myList = new MyList();
 
         System.out.println(myList.length());
 
@@ -47,14 +45,14 @@ public class MyLinkTester
         int indexToRemove = in.nextInt();
 
         System.out.println(myList.remove(indexToRemove));
-        System.out.println(myList.length());*/
+        System.out.println(myList.length());
 
-        Scanner in = new Scanner(System.in);
         int numElements = in.nextInt();
 
-        MyList myList = new MyList();
+        myList = new MyList();
 
-        for (int i = 0; i < numElements; i++) {
+        for (int i = 0; i < numElements; i++)
+        {
             myList.add(in.nextInt());
         }
 

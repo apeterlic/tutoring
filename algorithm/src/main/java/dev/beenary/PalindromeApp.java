@@ -2,7 +2,6 @@ package dev.beenary;
 
 public class PalindromeApp
 {
-
     public static void main(String[] args)
     {
         String input = "radar";
