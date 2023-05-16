@@ -10,7 +10,7 @@ public class Post
     {
         this.title = title;
     }
-    
+
     @Override
     public boolean equals(Object o)
     {

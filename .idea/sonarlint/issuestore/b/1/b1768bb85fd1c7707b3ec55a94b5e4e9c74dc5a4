@@ -1,22 +1,0 @@
-
-X
-java:S1854"6Remove this useless assignment to local variable "s2".(öãÈÃûÿÿÿÿ8»Ô¿¶ë0
-S	java:S106"9Replace this use of System.out or System.err by a logger.(‚ÞÏ¥ýÿÿÿÿ
-]	java:S125"<This block of commented-out lines of code should be removed.(ð‰å´ÿÿÿÿÿ8›€¿¶ë0
-S	java:S106"9Replace this use of System.out or System.err by a logger.(þ»¾¼üÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(·âœ¿úÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¤ðÃ¡
-S	java:S106"9Replace this use of System.out or System.err by a logger.( –§ýùÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Õ®Å¡
-6
-java:S2129" Remove this "String" constructor(žæë½
->
-java:S2201"(The return value of "trim" must be used.(’„ú 
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
-I
-java:S1481"'Remove this unused "s2" local variable.(öãÈÃûÿÿÿÿ8ÂÔ¿¶ë0
-N	java:S106 "9Replace this use of System.out or System.err by a logger.(Îßò·
-S	java:S106!"9Replace this use of System.out or System.err by a logger.(ê‹Ç³ùÿÿÿÿ
-S	java:S106""9Replace this use of System.out or System.err by a logger.(ë ²†þÿÿÿÿ
-S	java:S106#"9Replace this use of System.out or System.err by a logger.(àî•÷ÿÿÿÿÿ
-S	java:S106$"9Replace this use of System.out or System.err by a logger.(œæá—ÿÿÿÿÿ

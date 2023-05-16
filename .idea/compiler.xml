@@ -9,6 +9,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="encapsulation" />
         <module name="string" />
+        <module name="spring-rest" />
         <module name="objects" />
         <module name="inheritance" />
         <module name="statements" />
@@ -18,6 +19,7 @@
         <module name="payment-calculator" />
         <module name="course" />
         <module name="unit-tests" />
+        <module name="xml-rpc" />
         <module name="map" />
         <module name="test-driven-development" />
         <module name="algorithm" />
@@ -33,48 +35,18 @@
         <module name="java-basics-objects" />
         <module name="completable-future" />
       </profile>
-      <profile name="Annotation profile for tutoring" enabled="true">
-        <sourceOutputDir name="../../chapter10_loops/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../chapter10_loops/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="chapter10_loops" />
-      </profile>
-      <profile name="Annotation profile for chapter13_pronciples" enabled="true">
-        <sourceOutputDir name="../../chapter13_pronciples/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../chapter13_pronciples/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="chapter13_pronciples" />
-      </profile>
-      <profile name="Annotation profile for chapter17_string" enabled="true">
-        <sourceOutputDir name="../../chapter17_string/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../chapter17_string/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="chapter17_string" />
-      </profile>
-      <profile name="Annotation profile for chapter4_class" enabled="true">
-        <sourceOutputDir name="../../chapter4_class/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../chapter4_class/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="chapter4_class" />
-      </profile>
-      <profile name="Annotation profile for chapter9_statements" enabled="true">
-        <sourceOutputDir name="../../chapter9_statements/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../chapter9_statements/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="chapter9_statements" />
-      </profile>
-      <profile name="Annotation profile for chapter12_arrays" enabled="true">
-        <sourceOutputDir name="../../chapter12_arrays/target/generated-sources/annotations" />
-        <sourceTestOutputDir name="../../chapter12_arrays/target/generated-test-sources/test-annotations" />
-        <outputRelativeToContentRoot value="true" />
-        <module name="chapter12_arrays" />
-      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="baeldung" target="19" />
       <module name="basics" target="19" />
       <module name="beenary" target="19" />
       <module name="builder" target="19" />
+      <module name="chapter10_loops" target="19" />
+      <module name="chapter12_arrays" target="19" />
+      <module name="chapter13_pronciples" target="19" />
+      <module name="chapter17_string" target="19" />
+      <module name="chapter4_class" target="19" />
+      <module name="chapter9_statements" target="19" />
       <module name="design-patterns" target="19" />
       <module name="singleton" target="19" />
       <module name="template" target="19" />
@@ -117,12 +89,14 @@
       <module name="singleton" options="" />
       <module name="spring" options="-parameters" />
       <module name="spring-boot" options="-parameters" />
+      <module name="spring-rest" options="-parameters" />
       <module name="statements" options="-parameters" />
       <module name="string" options="-parameters" />
       <module name="template" options="" />
       <module name="test-driven-development" options="-parameters" />
       <module name="tutoring" options="" />
       <module name="unit-tests" options="-parameters" />
+      <module name="xml-rpc" options="-parameters" />
     </option>
   </component>
 </project>

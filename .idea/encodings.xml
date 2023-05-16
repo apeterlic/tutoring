@@ -59,11 +59,13 @@
     <file url="file://$PROJECT_DIR$/lombok/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/payment-calculator/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring-boot/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-rest/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/spring/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/test-driven-development/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/unit-tests/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/unit-tests/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/xml-rpc/src/main/java" charset="UTF-8" />
   </component>
 </project>

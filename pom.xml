@@ -16,15 +16,11 @@
         <module>spring-boot</module>
         <module>algorithm</module>
         <module>java-core/abstraction</module>
-        <module>chapter4_class</module>
-        <module>chapter17_string</module>
-        <module>chapter9_statements</module>
-        <module>chapter10_loops</module>
-        <module>chapter12_arrays</module>
-        <module>chapter13_pronciples</module>
         <module>payment-calculator</module>
         <module>exercises</module>
         <module>course</module>
+        <module>spring-rest</module>
+        <module>xml-rpc</module>
     </modules>
     <properties>
         <maven.compiler.source>19</maven.compiler.source>
